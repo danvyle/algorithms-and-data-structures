@@ -10,4 +10,3 @@ def sumTwo(array, sum)
    end
  end
 
- sumTwo([8,1,5,2], 75)
